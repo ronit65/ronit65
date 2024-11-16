@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently working as a Senior Software Developer <br>in frontend. <br>I am looking to collaborate on frontend project and architecture enhancements<br>
+I am currently a Senior Software Developer specializing in frontend development, with extensive experience in React, JavaScript, and building scalable web applications. I have led the development of complex ERP solutions like Cargoes Runner and contributed to major automation projects, including the Candidate Transition System for clients such as Amazon and Swiggy. <br>
+
+My work includes creating integration dashboards, custom modules, and data-driven revenue features. I am passionate about mentoring junior developers, implementing code quality SOPs, and enhancing software architecture for better maintainability and performance. <br>
+
+I am looking to collaborate on challenging frontend projects, architecture enhancements, and any innovative solutions that push the boundaries of web development. <br>
 
 
 ## 🌐 Socials:
